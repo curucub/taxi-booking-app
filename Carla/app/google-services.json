@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "904191204666",
+    "firebase_url": "https://carla-4c3d2.firebaseio.com",
+    "project_id": "carla-4c3d2",
+    "storage_bucket": "carla-4c3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904191204666:android:f12f157d50b7fe1d",
+        "android_client_info": {
+          "package_name": "com.projects.twyn.carla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904191204666-5h27cqvt7bq3teiut90l6scioe6uelj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.twyn.carla",
+            "certificate_hash": "0cff1eee6732365641d923d0b6c5361eac2a16f3"
+          }
+        },
+        {
+          "client_id": "904191204666-91oqj8v2entm08qabi8dqgn1ltda0a4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.twyn.carla",
+            "certificate_hash": "6d45876527c4e926a2107258551fe17c99cb9987"
+          }
+        },
+        {
+          "client_id": "904191204666-p9ghdbnq15hr673eiqjaph1es10q1bao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.twyn.carla",
+            "certificate_hash": "01790c51985b2a9d57e838299623f5da04d37626"
+          }
+        },
+        {
+          "client_id": "904191204666-79n8qsjc2b9cdnhoivbc7pkq3qkp4ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANHL5iLZAPnt6DBHmc6J0DFgoh9EdXB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904191204666-79n8qsjc2b9cdnhoivbc7pkq3qkp4ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904191204666-ueig5786t73n7ce9guqlev6tc4usnh1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "emmanuelentreprise.CarlaPro"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904191204666:android:02a89039811d159b",
+        "android_client_info": {
+          "package_name": "com.projects.twyn.carladriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904191204666-3vlic2b7vk1mhp6hpdeomd61ctp6s86b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.twyn.carladriver",
+            "certificate_hash": "0cff1eee6732365641d923d0b6c5361eac2a16f3"
+          }
+        },
+        {
+          "client_id": "904191204666-t5fijf8alaf5ts4s3ce1kcamqnqqbjoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.twyn.carladriver",
+            "certificate_hash": "6d45876527c4e926a2107258551fe17c99cb9987"
+          }
+        },
+        {
+          "client_id": "904191204666-79n8qsjc2b9cdnhoivbc7pkq3qkp4ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANHL5iLZAPnt6DBHmc6J0DFgoh9EdXB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904191204666-79n8qsjc2b9cdnhoivbc7pkq3qkp4ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904191204666-ueig5786t73n7ce9guqlev6tc4usnh1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "emmanuelentreprise.CarlaPro"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904191204666:android:8bcca3f47680c115",
+        "android_client_info": {
+          "package_name": "com.projects.zonetwyn.carla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904191204666-1m8h0qrr3o3cn27cffe77naetur3t34h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.zonetwyn.carla",
+            "certificate_hash": "0cff1eee6732365641d923d0b6c5361eac2a16f3"
+          }
+        },
+        {
+          "client_id": "904191204666-79n8qsjc2b9cdnhoivbc7pkq3qkp4ttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANHL5iLZAPnt6DBHmc6J0DFgoh9EdXB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904191204666-79n8qsjc2b9cdnhoivbc7pkq3qkp4ttd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904191204666-ueig5786t73n7ce9guqlev6tc4usnh1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "emmanuelentreprise.CarlaPro"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

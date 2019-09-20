@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#311B92</color>
+    <color name="colorPrimaryDark">#291780</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSecondary">#CE95D9</color>
+    <color name="colorSecondaryDark">#B559B5</color>
+
+    <color name="colorDanger">#ED1C24</color>
+    <color name="colorDangerDark">#FF0000</color>
+
+    <color name="colorSuccess">#22B14C</color>
+    <color name="colorSuccessDark">#156C30</color>
+
+    <color name="colorWarning">#E6DA00</color>
+    <color name="colorWarningDark">#FFF200</color>
+    <color name="black">#000000</color>
+
+    <color name="colorSecondaryLight">#DFE1F6</color>
+    <color name="colorLight">#C1F0C1</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="mediumWhite">#FFE3E3E3</color>
+    <color name="lowWhite">#FFFAFAFA</color>
+    <color name="mediumDark">#FF222222</color>
+
+    <color name="green">#22B14C</color>
+    <color name="darkGreen">#229722</color>
+    <color name="darkestGreen">#167232</color>
+    <color name="lightGreen">#FAF7E7</color>
+
+    <color name="red">#ED1C24</color>
+    <color name="darkRed">#FF0000</color>
+    <color name="mediumRed">#EF342A</color>
+
+
+    <color name="gray">#7F7F7F</color>
+    <color name="darkGray">#4F4F4F</color>
+    <color name="lightGray">#C1C1C1</color>
+    <color name="lowGray">#D1D1D1</color>
+</resources>

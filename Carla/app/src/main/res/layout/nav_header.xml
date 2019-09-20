@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorSecondary"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:orientation="vertical"
+    android:gravity="bottom">
+
+    <com.projects.zonetwyn.carla.components.CircularImageView
+        android:id="@+id/header_picture"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:src="@drawable/avatar_4"
+        android:layout_marginLeft="55dp"
+        app:civ_border="true"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/white" />
+
+    <TextView
+        android:id="@+id/header_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="59dp"
+        android:text="@string/header_title"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+</LinearLayout>

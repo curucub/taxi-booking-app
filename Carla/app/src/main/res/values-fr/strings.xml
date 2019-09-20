@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carla</string>
+
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+    <string name="bills" translatable="false">Factures</string>
+    <string name="search" translatable="false">Recherche</string>
+    <string name="rides" translatable="false">Courses</string>
+    <string name="requests" translatable="false">Requêtes</string>
+    <string name="payment" translatable="false">Paiement</string>
+    <string name="messages" translatable="false">Messages</string>
+    <string name="profile" translatable="false">Profil</string>
+    <string name="about" translatable="false">A Propos</string>
+    <string name="logout" translatable="false">Deconnexion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="header_title" translatable="false">Marc Antoinne</string>
+    <string name="do_you_have_an_account" translatable="false">Vous avez déjà un compte?</string>
+    <string name="sign_in" translatable="false">CONNEXION</string>
+    <string name="you_discover_carla" translatable="false">Vous decouvrez CARLA?</string>
+    <string name="sign_up" translatable="false">INSCRIPTION</string>
+    <string name="carla" translatable="false">CARLA</string>
+    <string name="not_yet_client" translatable="false">Pas encore client?</string>
+    <string name="phone" translatable="false">Téléphone</string>
+    <string name="enter_your_phone_to_get_started" translatable="false">Entrer votre numéro pour vous connectez</string>
+    <string name="next" translatable="false">SUIVANT</string>
+    <string name="sign_in_title" translatable="false">Connexion</string>
+    <string name="already_have_an_account" translatable="false">Vous avez déjà un compte?</string>
+    <string name="code" translatable="false">Code</string>
+    <string name="enter_the_code_you_just_received" translatable="false">Entrer le code que vous venez de recevoir</string>
+    <string name="you_did_not_received_the_code" translatable="false">Vous n\'avez pas reçu de code?</string>
+    <string name="send" translatable="false">RENVOYER</string>
+    <string name="france" translatable="false">(+33)</string>
+    <string name="spain" translatable="false">(+34)</string>
+    <string name="canada" translatable="false">(+1)</string>
+    <string name="argentina" translatable="false">(+54)</string>
+
+
+    <string name="new_account" translatable="false">Nouveau Compte</string>
+    <string name="account_type" translatable="false">Type de compte</string>
+    <string name="one" translatable="false">1</string>
+    <string name="step_divider" translatable="false">/</string>
+    <string name="two" translatable="false">2</string>
+    <string name="steps" translatable="false">ETAPES</string>
+    <string name="three" translatable="false">3</string>
+    <string name="phone_verification" translatable="false">Vérification du numéro</string>
+    <string name="code_verification" translatable="false">Vérification du code</string>
+    <string name="account_informations" translatable="false">Informations du compte</string>
+    <string name="sign_up_title" translatable="false">Inscription</string>
+    <string name="name" translatable="false">Nom</string>
+    <string name="surname" translatable="false">Prénom</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="driver" translatable="false">CHAUFFEUR</string>
+    <string name="want_to_join_our_drivers" translatable="false">Vous voulez rejoindre nos chauffeurs?</string>
+    <string name="registration_in_progress" translatable="false">Inscription en cours...</string>
+    <string name="title" translatable="false">Titre</string>
+    <string name="content" translatable="false">Contenu</string>
+    <string name="message" translatable="false">Message</string>
+
+    <string name="successfully_registration" translatable="false">Inscription réussie!</string>
+    <string name="terms" translatable="false">Condtions d\'utilisation</string>
+    <string name="terms_content" translatable="false">Voici nos conditions d\'utilisations</string>
+    <string name="i_have_read_and_accept_the" translatable="false">J\'ai lu accepté les termes</string>
+    <string name="terms_of_use" translatable="false">Conditions d\'utilisations</string>
+    <string name="phone_can_not_be_empty" translatable="false">Téléphone obligatoire!</string>
+    <string name="checking_your_number" translatable="false">Vérification du numéro...</string>
+    <string name="uploading_data" translatable="false">Sauvegarde de vos données...</string>
+    <string name="select_picture" translatable="false">Choisir une image</string>
+    <string name="empty_field" translatable="false">Veuiller remplir tous les champs!</string>
+    <string name="picture_required" translatable="false">Photo requise!</string>
+    <string name="invalid_email" translatable="false">Adresse email non valide!</string>
+    <string name="you_must_accept_terms" translatable="false">Vous devez accpeter les conditions d\'utilisations</string>
+
+    <string name="sign_in_progress" translatable="false">Connexion en cours...</string>
+    <string name="your_phone_not_recognized" translatable="false">Désolé, nous ne reconnaissons pas votre numéro!</string>
+    <string name="fetch_data" translatable="false">Récupération des données</string>
+    <string name="default_info_snippet" translatable="false">Default snipet</string>
+    <string name="you" translatable="false">Vous</string>
+    <string name="pick_place" translatable="false">Où êtes vous?</string>
+    <string name="enable" translatable="false">ACTIF</string>
+    <string name="please_turn_on_location_setting" translatable="false">Veuillez activer votre GPS</string>
+    <string name="from" translatable="false">De</string>
+    <string name="to" translatable="false">A</string>
+    <string name="search_label" translatable="false">Recherche</string>
+    <string name="home" translatable="false">Maison</string>
+    <string name="office" translatable="false">Bureau</string>
+    <string name="description" translatable="false">Description</string>
+    <string name="driver_details" translatable="false">Détails du chauffeur</string>
+    <string name="note" translatable="false">15 / 100</string>
+    <string name="send_request" translatable="false">ENVOYER UNE REQUETE</string>
+    <string name="starting_empty" translatable="false">Précisez les points de départ et d\'arrivé!</string>
+    <string name="getting_price" translatable="false">Tarification en cours...</string>
+    <string name="pricing" translatable="false">Tarification</string>
+    <string name="address" translatable="false">15 rue du progres 93100, Montreuil, France</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="distance_value" translatable="false">222 mi</string>
+    <string name="duration_label" translatable="false">3h25min</string>
+    <string name="duration" translatable="false">Durée</string>
+    <string name="price" translatable="false">Prix</string>
+    <string name="price_label" translatable="false">15 €</string>
+    <string name="sending_request" translatable="false">Envoie de la requête...</string>
+    <string name="successfully_sent" translatable="false">Votre requête a bien été envoyée</string>
+    <string name="my_location" translatable="false">Ma position</string>
+    <string name="add_address" translatable="false">Ajouter un emplacement</string>
+    <string name="favorite" translatable="false">Favoris</string>
+    <string name="updating_in_progress" translatable="false">Mise à jour...</string>
+    <string name="no_driver" translatable="false">Aucun chauffeur n\'est disponible pour le moment!</string>
+    <string name="select_locations" translatable="false">Précisez les points de départ et d\'arrivé!</string>
+    <string name="duration_waiting_time" translatable="false">Temps d\'attente</string>
+    <string name="duration_ride_time" translatable="false">Durée de la course</string>
+    <string name="i_have_code" translatable="false">Vous avez un code promo?</string>
+    <string name="add_code" translatable="false">Ajouter un code promo</string>
+    <string name="code_needed" translatable="false">Veuillez entrer un code</string>
+    <string name="code_wrong" translatable="false">Votre code n\'est pas reconnu</string>
+    <string name="code_sucess" translatable="false">Votre code a bien été ajouté. Le nouveau prix est </string>
+    <string name="james" translatable="false">Mateo</string>
+    <string name="add_card_label" translatable="false">Ajouter une carte</string>
+    <string name="card_number_label" translatable="false">4111111111111111</string>
+    <string name="card_name" translatable="false">Nom sur la carte</string>
+    <string name="year" translatable="false">2015</string>
+    <string name="month" translatable="false">12</string>
+    <string name="cvv" translatable="false">123</string>
+    <string name="add_card_btn" translatable="false">ENREGISTRER</string>
+    <string name="month_label" translatable="false">Mois</string>
+    <string name="card_number_label_" translatable="false">Numéro</string>
+    <string name="year_label" translatable="false">Année</string>
+    <string name="cvv_label" translatable="false">CVV</string>
+    <string name="number_not_valid" translatable="false">Numéro de carte invalide!</string>
+    <string name="card_not_valid" translatable="false">Votre carte n\'est pas valide</string>
+    <string name="no_rides" translatable="false">Vous n\'avez aucune course</string>
+    <string name="no_requests" translatable="false">Vous n\'avez aucune requete</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="no_bills" translatable="false">Vous n\'avez aucune facture</string>
+    <string name="date_label" translatable="false">2018/12/15  12:35</string>
+    <string name="random" translatable="false">Here is a random text, it was just generated for testing purposes. It must not be use in production, so be careful.</string>
+    <string name="no_messages" translatable="false">Vous n\'avez aucun message</string>
+    <string name="email_label" translatable="false">mateo21@gmail.com</string>
+    <string name="phone_label" translatable="false">+330766811008</string>
+    <string name="share" translatable="false">Parrainage</string>
+    <string name="send_to" translatable="false">Partager avec</string>
+    <string name="carla_client" translatable="false">CLIENT</string>
+    <string name="version" translatable="false">Version 1.0</string>
+    <string name="time_is_late" translatable="false">It two last, try again in the morning</string>
+</resources>

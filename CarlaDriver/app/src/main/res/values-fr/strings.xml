@@ -1,0 +1,166 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Carla Pro</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dashboard">Accueil</string>
+    <string name="earnings">Gains</string>
+    <string name="payments">Paiements</string>
+
+    <string name="request">Requête en cours</string>
+
+    <string name="brand">Marque</string>
+    <string name="model">Modèle</string>
+    <string name="year">Année</string>
+    <string name="registration_number">Immatriculation</string>
+    <string name="six">6</string>
+    <string name="vehicle_informations">Informations du véhicule</string>
+    <string name="list_of_documents">Liste des documents</string>
+    <string name="id_card">Carte nationale</string>
+    <string name="license">Licence</string>
+    <string name="vtc_card">Carte VTC</string>
+    <string name="vtc_insurance">Assurance VTC</string>
+    <string name="gray_card">Carte grise</string>
+    <string name="criminal_record_extract">Extrait de casier judiciaire</string>
+    <string name="kbis_extract">Extrait KBIS</string>
+    <string name="upload_front_view">Ajouter la vue de face</string>
+    <string name="save">ENREGISTRER</string>
+    <string name="documents">Documents</string>
+    <string name="id_card_label">( ID Card )</string>
+    <string name="acceptance">Contrat d\'utilisation</string>
+    <string name="i_have_a_vtc_license">J\'ai une licence VTC</string>
+    <string name="app_foldername">Carla</string>
+    <string name="pictures_folder">Pictures</string>
+    <string name="pdf">(pdf)</string>
+    <string name="successfully_upload">Fichier envoyé avec succès</string>
+    <string name="some_document_are_missing">Seems like some documents are missing</string>
+    <string name="your_phone_not_recongnized">Numéro de téléphone non reconnu</string>
+    <string name="gains">Gains</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="week">Semaine</string>
+    <string name="your_account_not_activated">Votre compte n\'est pas encore activé, vous serez notifié par mail!</string>
+    <string name="switch_to_get_online">Switch to get online</string>
+    <string name="hello_wilfried">Hello, Wilfried</string>
+    <string name="stats">YOUR STATS</string>
+    <string name="last_ride">Last ride :</string>
+    <string name="monday">2018/11/10 at 12:45</string>
+    <string name="zero">0</string>
+    <string name="hundred">100</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="you_are_online">Vous êtes connectés. Now all clients can call you.</string>
+    <string name="you_are_offline">You are offline.</string>
+    <string name="default_notification_channel_id">carla-driver-channel</string>
+    <string name="new_request">Nouvelle requête</string>
+
+    <string name="accept">ACCEPTER</string>
+    <string name="reject">REFUSER</string>
+    <string name="without_action_the_request_will_be_automatically_rejected">Sans aucune action, la requête sera automatiquement rejetée</string>
+    <string name="sending_your_response">Envoi de votre réponse...</string>
+    <string name="request_report">Rapport de requête</string>
+    <string name="request_accepted">Wohoo! Votre requête a bien été accepté par le chauffeur, il est en route.</string>
+    <string name="request_rejected">Oooh! Désolé, le chauffeur a rejeté votre requête!</string>
+    <string name="response_successfull">Votre réponse a bien été envoyée au client!</string>
+    <string name="error">Seems like it was an error, please try again!</string>
+    <string name="ride">Course en cours</string>
+    <string name="preferred_gps">Navigateur par défaut</string>
+    <string name="google_map">Google Map</string>
+    <string name="waze">Waze</string>
+    <string name="pick_up_client">RECUPERER LE CLIENT</string>
+    <string name="start_ride">DEMARRER LA COURSE</string>
+    <string name="end_ride">COURSE TERMINEE</string>
+    <string name="sorry_you_don_t_have_any_ride_in_progress">Vous n\'avez aucune course en cours</string>
+    <string name="please_check">Sélectionner un navigateur par défaut</string>
+    <string name="reached_to_client">ARRIVE AU CLIENT</string>
+    <string name="ride_ended">Votre course est terminée</string>
+    <string name="driver_reach">Votre chauffeur est arrivé au point de départ</string>
+    <string name="you_won">Wohoo!, vous avez gagné</string>
+    <string name="updating_data">Mise à jour...</string>
+    <string name="amount">Montant</string>
+    <string name="no_payments">Vous n\'avez aucun paiment</string>
+    <string name="date">Date</string>
+    <string name="month">Month gains : </string>
+    <string name="day">Day gains : </string>
+    <string name="weekly">Week gains : </string>
+    <string name="carla_driver">DRIVER</string>
+    <string name="version">Version 1.0</string>
+
+    <string name="rides" translatable="false">Courses</string>
+    <string name="requests" translatable="false">Requêtes</string>
+    <string name="messages" translatable="false">Messages</string>
+    <string name="profile" translatable="false">Profil</string>
+    <string name="about" translatable="false">A Propos</string>
+    <string name="logout" translatable="false">Deconnexion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="header_title" translatable="false">Marc Antoinne</string>
+    <string name="do_you_have_an_account" translatable="false">Vous avez déjà un compte?</string>
+    <string name="sign_in" translatable="false">CONNEXION</string>
+    <string name="you_discover_carla" translatable="false">Vous decouvrez CARLA?</string>
+    <string name="sign_up" translatable="false">INSCRIPTION</string>
+    <string name="carla" translatable="false">CARLA</string>
+    <string name="not_yet_client" translatable="false">Pas encore client?</string>
+    <string name="phone" translatable="false">Téléphone</string>
+    <string name="enter_your_phone_to_get_started" translatable="false">Entrer votre numéro pour vous connectez</string>
+    <string name="next" translatable="false">SUIVANT</string>
+    <string name="sign_in_title" translatable="false">Connexion</string>
+    <string name="already_have_an_account" translatable="false">Vous avez déjà un compte?</string>
+    <string name="code" translatable="false">Code</string>
+    <string name="enter_the_code_you_just_received" translatable="false">Entrer le code que vous venez de recevoir</string>
+    <string name="you_did_not_received_the_code" translatable="false">Vous n\'avez pas reçu de code?</string>
+    <string name="send" translatable="false">RENVOYER</string>
+    <string name="france" translatable="false">(+33)</string>
+    <string name="spain" translatable="false">(+34)</string>
+    <string name="canada" translatable="false">(+1)</string>
+    <string name="argentina" translatable="false">(+54)</string>
+
+
+    <string name="new_account" translatable="false">Nouveau Compte</string>
+    <string name="account_type" translatable="false">Type de compte</string>
+    <string name="one" translatable="false">1</string>
+    <string name="step_divider" translatable="false">/</string>
+    <string name="two" translatable="false">2</string>
+    <string name="steps" translatable="false">ETAPES</string>
+    <string name="three" translatable="false">3</string>
+    <string name="phone_verification" translatable="false">Vérification du numéro</string>
+    <string name="code_verification" translatable="false">Vérification du code</string>
+    <string name="account_informations" translatable="false">Informations du compte</string>
+    <string name="sign_up_title" translatable="false">Inscription</string>
+    <string name="name" translatable="false">Nom</string>
+    <string name="surname" translatable="false">Prénom</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="driver" translatable="false">CHAUFFEUR</string>
+    <string name="want_to_join_our_drivers" translatable="false">Vous voulez rejoindre nos chauffeurs?</string>
+    <string name="registration_in_progress" translatable="false">Inscription en cours...</string>
+    <string name="title" translatable="false">Titre</string>
+    <string name="content" translatable="false">Contenu</string>
+    <string name="message" translatable="false">Message</string>
+
+    <string name="successfully_registration" translatable="false">Inscription réussie!</string>
+    <string name="terms" translatable="false">Condtions d\'utilisation</string>
+    <string name="terms_content" translatable="false">Voici nos conditions d\'utilisations</string>
+    <string name="i_have_read_and_accept_the" translatable="false">J\'ai lu accepté les termes</string>
+    <string name="terms_of_use" translatable="false">Conditions d\'utilisations</string>
+    <string name="phone_can_not_be_empty" translatable="false">Téléphone obligatoire!</string>
+    <string name="checking_your_number" translatable="false">Vérification du numéro...</string>
+    <string name="uploading_data" translatable="false">Sauvegarde de vos données...</string>
+    <string name="select_picture" translatable="false">Choisir une image</string>
+    <string name="empty_field" translatable="false">Veuiller remplir tous les champs!</string>
+    <string name="picture_required" translatable="false">Photo requise!</string>
+    <string name="invalid_email" translatable="false">Adresse email non valide!</string>
+    <string name="you_must_accept_terms" translatable="false">Vous devez accpeter les conditions d\'utilisations</string>
+
+    <string name="sign_in_progress" translatable="false">Connexion en cours...</string>
+    <string name="your_phone_not_recognized" translatable="false">Désolé, nous ne reconnaissons pas votre numéro!</string>
+    <string name="from" translatable="false">De</string>
+    <string name="to" translatable="false">A</string>
+    <string name="pricing" translatable="false">Tarification</string>
+    <string name="address" translatable="false">15 rue du progres 93100, Montreuil, France</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="distance_value" translatable="false">222 mi</string>
+    <string name="duration_label" translatable="false">3h25min</string>
+    <string name="duration" translatable="false">Durée</string>
+    <string name="price" translatable="false">Prix</string>
+
+    <string name="no_rides">Vous n\'avez aucune coure</string>
+
+    <string name="no_messages" translatable="false">Vous n\'avez aucun message</string>
+</resources>
